@@ -1,6 +1,6 @@
 {
   "name": "is-es2015",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A feature detection to know if current code is compatible with ES2015",
   "main": "./cjs/index.js",
   "scripts": {
